@@ -1,0 +1,8 @@
+payment_id,order_id,payment_date,payment_amount,payment_status
+PAY001,O001,2024-03-01,51.00,Success
+PAY002,O002,2024-03-05,45.00,Success
+PAY003,O003,2024-03-08,27.50,Success
+PAY004,O004,2024-03-10,18.00,Failed
+PAY005,O005,2024-03-11,-35.00,Success
+PAY006,O006,2024-04-02,45.00,Success
+PAY007,O999,2024-04-05,99.00,Success

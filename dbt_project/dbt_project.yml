@@ -1,0 +1,11 @@
+name: modern_data_warehouse
+version: '1.0'
+config-version: 2
+profile: modern_data_warehouse
+model-paths: ['models']
+models:
+  modern_data_warehouse:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

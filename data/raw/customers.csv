@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email,country,signup_date
+C001,Aarav,Sharma,aarav@example.com,Australia,2024-01-10
+C002,Sophia,Lee,sophia@example.com,Australia,2024-01-12
+C003,Noah,Smith,,New Zealand,2024-02-01
+C004,Emma,Brown,emma@example.com,Australia,2024-02-05
+C005,Oliver,Jones,oliver@example.com,Australia,invalid_date
+C005,Oliver,Jones,oliver@example.com,Australia,invalid_date
