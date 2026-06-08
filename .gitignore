@@ -5,3 +5,5 @@ data/processed/*.csv
 airflow/logs/
 dbt_project/target/
 dbt_project/dbt_packages/
+
+venv/
