@@ -38,8 +38,3 @@ dbt run
 dbt test
 ```
 
-## Resume Bullet
-Built a production-style modern data warehouse pipeline using Python, PostgreSQL, dbt, Airflow and SQL, including raw data ingestion, data quality validation, staging models, fact/dimension modelling, automated dbt tests, orchestration, and analytics-ready reporting marts.
-
-## Interview Explanation
-I built this project to demonstrate an end-to-end data engineering workflow. The raw data contains realistic quality issues such as duplicates, missing values, invalid IDs, invalid dates, and negative payment values. I used Python to ingest and clean the data, PostgreSQL as the warehouse layer, dbt to create staging and reporting models, and Airflow to represent orchestration. The project shows not just moving data, but building reliable, testable, and maintainable data pipelines.
